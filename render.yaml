@@ -20,4 +20,4 @@ services:
     staticPublishPath: ./dist
     envVars:
       - key: VITE_API_URL
-        value: https://stormroute-api.onrender.com/api
+        value: https://stormroute-api-bj1b.onrender.com/api
